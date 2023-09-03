@@ -41,9 +41,9 @@ def getWords(posts):
                         })
 
 if __name__ == "__main__":
-    posts = postsFromCSV(infile)
-    words = getWords(posts)
-    postsToCSV(words, "words.csv")
+    #posts = postsFromCSV(infile)
+    #words = getWords(posts)
+    #postsToCSV(words, "words.csv")
     words = postsFromCSV("words.csv")
 
     datas = []
