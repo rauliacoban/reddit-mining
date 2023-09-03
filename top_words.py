@@ -54,9 +54,9 @@ if __name__ == "__main__":
 
         counts_ascending = counts.sort_values(ascending=True) # We sort the values in ascending order first, feels more natural to see the lowest values at the bottom, highest at the top
         #print(i, len(counts_ascending))
-        counts_ascending.plot(kind='barh')  # We use barh instead of bar to switch to horizontal view
+        #counts_ascending.plot(kind='barh')  # We use barh instead of bar to switch to horizontal view
         datas.append(counts_ascending)
-    plt.show()
+    #plt.show()
 
     COUNT = len(datas)
 
