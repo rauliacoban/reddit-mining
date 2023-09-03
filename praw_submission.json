@@ -1,0 +1,162 @@
+{
+    "comment_limit": 2048,
+    "comment_sort": "confidence",
+    "_reddit": <praw.reddit.Reddit object at 0x7fb80cb74e50>,
+    "approved_at_utc": None,
+    "subreddit": Subreddit(display_name="worldnews"),
+    "selftext": "",
+    "author_fullname": "t2_etf58",
+    "saved": False,
+    "mod_reason_title": None,
+    "gilded": 2,
+    "clicked": False,
+    "title": "Queen Elizabeth II has died, Buckingham Palace announces",
+    "link_flair_richtext": [],
+    "subreddit_name_prefixed": "r/worldnews",
+    "hidden": False,
+    "pwls": 6,
+    "link_flair_css_class": None,
+    "downs": 0,
+    "thumbnail_height": 78,
+    "top_awarded_type": "INACTIVE",
+    "hide_score": False,
+    "name": "t3_x96k3v",
+    "quarantine": False,
+    "link_flair_text_color": "dark",
+    "upvote_ratio": 0.79,
+    "author_flair_background_color": None,
+    "subreddit_type": "public",
+    "ups": 189018,
+    "total_awards_received": 100,
+    "media_embed": {},
+    "thumbnail_width": 140,
+    "author_flair_template_id": None,
+    "is_original_content": False,
+    "user_reports": [],
+    "secure_media": None,
+    "is_reddit_media_domain": False,
+    "is_meta": False,
+    "category": None,
+    "secure_media_embed": {},
+    "link_flair_text": None,
+    "can_mod_post": False,
+    "score": 189018,
+    "approved_by": None,
+    "is_created_from_ads_ui": False,
+    "author_premium": True,
+    "thumbnail": "https: //b.thumbs.redditmedia.com/Wc4ZWrYiWIxOYywv57o98pw8-fadD2EQls0rDK-uqEc.jpg",
+    "edited": False,
+    "author_flair_css_class": None,
+    "author_flair_richtext": [],
+    "gildings": {},
+    "post_hint": "link",
+    "content_categories": None,
+    "is_self": False,
+    "mod_note": None,
+    "created": 1662658326.0,
+    "link_flair_type": "text",
+    "wls": 6,
+    "removed_by_category": None,
+    "banned_by": None,
+    "author_flair_type": "text",
+    "domain": "bbc.co.uk",
+    "allow_live_comments": True,
+    "selftext_html": None,
+    "likes": None,
+    "suggested_sort": None,
+    "banned_at_utc": None,
+    "url_overridden_by_dest": "https://www.bbc.co.uk/news/uk-61585886",
+    "view_count": None,
+    "archived": True,
+    "no_follow": False,
+    "is_crosspostable": False,
+    "pinned": False,
+    "over_18": False,
+    "preview": {
+        "images": [
+            {
+                "source": {
+                    "url": "https://external-preview.redd.it/jMm6YLTvZRPg4oQ2ZAuB395h-DDglAbWaPDveC45w24.jpg?auto=webp&s=eea5f24fe24a160b2cd82767ad09a12ad79ee162",
+                    "width": 1024,
+                    "height": 576
+                },
+                "resolutions": [
+                    {
+                        "url": "https://external-preview.redd.it/jMm6YLTvZRPg4oQ2ZAuB395h-DDglAbWaPDveC45w24.jpg?width=108&crop=smart&auto=webp&s=6d4bb368c15e9622e5f7906953f514f0fe5c5fb3",
+                        "width": 108,
+                        "height": 60
+                    },
+                    {
+                        "url": "https://external-preview.redd.it/jMm6YLTvZRPg4oQ2ZAuB395h-DDglAbWaPDveC45w24.jpg?width=216&crop=smart&auto=webp&s=ccbe51cab3d9bdfe860f5da4c4f7dcf40b2ecd5a",
+                        "width": 216,
+                        "height": 121
+                    },
+                    {
+                        "url": "https://external-preview.redd.it/jMm6YLTvZRPg4oQ2ZAuB395h-DDglAbWaPDveC45w24.jpg?width=320&crop=smart&auto=webp&s=e3a369b1fed29b86bf6d490e0a7cd178049e9525",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://external-preview.redd.it/jMm6YLTvZRPg4oQ2ZAuB395h-DDglAbWaPDveC45w24.jpg?width=640&crop=smart&auto=webp&s=8b55de232b73fe57732c017f76fd6f2c17aa3bf5",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "url": "https://external-preview.redd.it/jMm6YLTvZRPg4oQ2ZAuB395h-DDglAbWaPDveC45w24.jpg?width=960&crop=smart&auto=webp&s=fe9d5630c32fd1dad4ef49ce580c9aec5e9b9bae",
+                        "width": 960,
+                        "height": 540
+                    }
+                ],
+                "variants": {},
+                "id": "6wCDy4agkuIRdncXRD_NG8E6H-m3mUKAU9YYZDBVLBQ"
+            }
+        ],
+        "enabled": False
+    },
+    "all_awardings": [
+        {
+            "giver_coin_reward": None,
+            "subreddit_id": None,
+            "is_new": False,
+            "days_of_drip_extension": None,
+            "coin_price": 20,
+            "id": "award_abb865cf-620b-4219-8777-3658cf9091fb",
+            "penny_donate": None,
+            "award_sub_type": "PREMIUM",
+            "coin_reward": 0,
+            "icon_url": "https://www.redditstatic.com/gold/awards/icon/Starstruck_512.png",
+            "days_of_premium": None,
+            "tiers_by_required_awardings": None,
+            "resized_icons": [
+                {
+                    "url": "https://www.redditstatic.com/gold/awards/icon/Starstruck_16.png",
+                    "width": 16,
+                    "height": 16
+                },
+                {
+                    "url": "https://www.redditstatic.com/gold/awards/icon/Starstruck_32.png",
+                    "width": 32,
+                    "height": 32
+                },
+                {
+                    "url": "https://www.redditstatic.com/gold/awards/icon/Starstruck_48.png",
+                    "width": 48,
+                    "height": 48
+                },
+                {
+                    "url": "https://www.redditstatic.com/gold/awards/icon/Starstruck_64.png",
+                    "width": 64,
+                    "height": 64
+                },
+                {
+                    "url": "https://www.redditstatic.com/gold/awards/icon/Starstruck_128.png",
+                    "width": 128,
+                    "height": 128
+                }
+            ],
+            "icon_width": 512,
+            "static_icon_width": 512,
+            "start_date": None,
+            "is_enabled": True,
+            "awardings_required_to_grant_benefits": None,
+            "description": "Can"t stop seeing stars", "end_date": None, "sticky_duration_seconds": None, "subreddit_coin_reward": 0, "count": 1, "static_icon_height": 512, "name": "Starstruck", "resized_static_icons": [{"url": "https: //preview.redd.it/award_images/t5_22cerq/snotiq9vxyn51_Starstruck.png?width=16&height=16&auto=webp&s=800ea0775a3f25602bfab03058d64d25352c04d2", "width": 16, "height": 16}, {"url": "https://preview.redd.it/award_images/t5_22cerq/snotiq9vxyn51_Starstruck.png?width=32&height=32&auto=webp&s=1d4be9117f8e389c54e0a7e23918355d7d2df185", "width": 32, "height": 32}, {"url": "https://preview.redd.it/award_images/t5_22cerq/snotiq9vxyn51_Starstruck.png?width=48&height=48&auto=webp&s=45443e65acd1cf76585f7c9d904e1484f89db521", "width": 48, "height": 48}, {"url": "https://preview.redd.it/award_images/t5_22cerq/snotiq9vxyn51_Starstruck.png?width=64&height=64&auto=webp&s=f4164f96ab1df25de2024b8b65e9ce91d3424c86", "width": 64, "height": 64}, {"url": "https://preview.redd.it/award_images/t5_22cerq/snotiq9vxyn51_Starstruck.png?width=128&height=128&auto=webp&s=b09819f49e26e5ad518dbdf1aa69f0916d514c6e", "width": 128, "height": 128}], "icon_format": "APNG", "icon_height": 512, "penny_price": 0, "award_type": "global", "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/snotiq9vxyn51_Starstruck.png"}, {"giver_coin_reward": 0, "subreddit_id": None, "is_new": False, "days_of_drip_extension": 0, "coin_price": 0, "id": "award_deleted", "penny_donate": 0, "award_sub_type": "COMMUNITY", "coin_reward": 0, "icon_url": "https://www.redditstatic.com/gold/awards/icon/deleted_award_512.png", "days_of_premium": 0, "tiers_by_required_awardings": None, "resized_icons": [{"url": "https://www.redditstatic.com/gold/awards/icon/deleted_award_16.png", "width": 16, "height": 16}, {"url": "https://www.redditstatic.com/gold/awards/icon/deleted_award_32.png", "width": 32, "height": 32}, {"url": "https://www.redditstatic.com/gold/awards/icon/deleted_award_48.png", "width": 48, "height": 48}, {"url": "https://www.redditstatic.com/gold/awards/icon/deleted_award_64.png", "width": 64, "height": 64}, {"url": "https://www.redditstatic.com/gold/awards/icon/deleted_award_128.png", "width": 128, "height": 128}], "icon_width": 512, "static_icon_width": 512, "start_date": None, "is_enabled": False, "awardings_required_to_grant_benefits": None, "description": "This award has been deleted.", "end_date": None, "sticky_duration_seconds": None, "subreddit_coin_reward": 0, "count": 99, "static_icon_height": 512, "name": "[deleted]", "resized_static_icons": [{"url": "https://www.redditstatic.com/gold/awards/icon/deleted_award_16.png", "width": 16, "height": 16}, {"url": "https://www.redditstatic.com/gold/awards/icon/deleted_award_32.png", "width": 32, "height": 32}, {"url": "https://www.redditstatic.com/gold/awards/icon/deleted_award_48.png", "width": 48, "height": 48}, {"url": "https://www.redditstatic.com/gold/awards/icon/deleted_award_64.png", "width": 64, "height": 64}, {"url": "https://www.redditstatic.com/gold/awards/icon/deleted_award_128.png", "width": 128, "height": 128}], "icon_format": "JPG", "icon_height": 512, "penny_price": 0, "award_type": "community", "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/deleted_award_512.png"}], "awarders": [], "media_only": False, "can_gild": False, "spoiler": False, "locked": True, "author_flair_text": None, "treatment_tags": [], "visited": False, "removed_by": None, "num_reports": None, "distinguished": None, "subreddit_id": "t5_2qh13", "author_is_blocked": False, "mod_reason_by": None, "removal_reason": None, "link_flair_background_color": "", "id": "x96k3v", "is_robot_indexable": True, "report_reasons": None, "author": Redditor(name="pipsdontsqueak"), "discussion_type": None, "num_comments": 16530, "send_replies": True, "whitelist_status": "all_ads", "contest_mode": False, "mod_reports": [], "author_patreon_flair": False, "author_flair_text_color": None, "permalink": "/r/worldnews/comments/x96k3v/queen_elizabeth_ii_has_died_buckingham_palace/", "parent_whitelist_status": "all_ads", "stickied": False, "url": "https://www.bbc.co.uk/news/uk-61585886", "subreddit_subscribers": 32848868, "created_utc": 1662658326.0, "num_crossposts": 29, "media": None, "is_video": False, "_fetched": False, "_additional_fetch_params": {}, "_comments_by_id": {}}
