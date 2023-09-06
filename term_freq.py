@@ -68,6 +68,8 @@ if __name__ == "__main__":
     df = df.rename(columns={'count_x': 'count_word', 'count_y': 'count_period'}) # Give more meaningful names
     df['tf'] = df['count_word'] / df['count_period'] * 1000
 
+    postsToCSV(df, "tf.csv")
+
     #for i in range(len(date_limits)):
     #    print(len(count_df[count_df['period'] == i]))
     # Let's sort by term frequency
