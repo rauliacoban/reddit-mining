@@ -1,0 +1,55 @@
+Cluster 0
+quot,people,chinese,protester,police,protest,hk,china,kong,hong
+
+Cluster 1
+thing,police,fuck,country,one,get,would,right,like,people
+
+Cluster 2
+removed,good,country,get,one,would,china,people,deleted,like
+
+Cluster 3
+linking,sensationalized,verifies,help,question,source,article,contact,moderator,reader
+
+Cluster 4
+time,need,one,good,get,money,would,like,company,people
+
+Cluster 5
+iran,get,war,putin,like,would,russian,russia,president,trump
+
+Cluster 6
+covid,number,infected,get,like,china,coronavirus,case,people,virus
+
+Cluster 7
+planet,world,global,year,fuel,energy,emission,carbon,change,climate
+
+Cluster 8
+subscription,discouraged,paywalls,flaired,contact,user,submission,moderator,paywall,metered
+
+Cluster 9
+monitored,constructive,drs,keywords,autotldr,faq,039,quot,tl,feedback
+
+
+
+
+
+
+Cluster 0
+new,eu,say,coronavirus,uk,brexit,boris,johnson,million,people
+
+Cluster 1
+first,police,climate,chinese,case,uk,year,new,say,coronavirus
+
+Cluster 2
+president,brazilian,news,say,fire,coronavirus,bolsonaro,amazon,brazil,world
+
+Cluster 3
+iran,impeachment,official,ukraine,russia,administration,president,say,donald,trump
+
+Cluster 4
+everywhere,evidence,excess,exchange,exclusion,exec,executed,ever,user,deleted
+
+Cluster 5
+student,activist,chinese,law,china,protester,police,protest,hong,kong
+
+Cluster 6
+india,new,report,beijing,virus,uighur,say,taiwan,coronavirus,china
